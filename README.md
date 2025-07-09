@@ -40,13 +40,13 @@ Clone o repositório:
 git clone https://github.com/Nana077h4ppy/estudo_OOP_biblioteca.git
 cd estudo_OOP_biblioteca
 ---
-## Execute o script principal:
+# Execute o script principal:
 python main.py
 
-## ou, se estiver usando Python 3:
+# ou, se estiver usando Python 3:
   python3 main.py
 
-## 📌 Funcionalidades
+# 📌 Funcionalidades
 
 - ✅ Adicionar Livro
 - ✅ Remover Livro por ISBN
@@ -55,13 +55,13 @@ python main.py
 
 ---
 
-## 👨‍💻 Tecnologias
+# 👨‍💻 Tecnologias
 
 - Python 3.x
 
 ---
 
-## ✨ Autor
+#✨ Autor
 
 Projeto de estudo — você pode modificar, melhorar e usar como base para projetos maiores.
 
