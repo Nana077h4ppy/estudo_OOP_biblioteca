@@ -34,7 +34,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/SEU_USUARIO/estudo_OOP_biblioteca.git
+git clone https://github.com/Nana077h4ppy/estudo_OOP_biblioteca.git
 cd estudo_OOP_biblioteca
 Execute o script principal:
 
