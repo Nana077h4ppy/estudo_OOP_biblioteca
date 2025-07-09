@@ -20,7 +20,7 @@ def main():
     biblioteca.listar_livros()
 
     # Buscar livro pelo título
-    biblioteca.buscar_livro_por_titulo("Hobbit")
+    biblioteca.buscar_livro_por_titulo("Vermelho,Branco e Sangue Azul")
 
     # Remover livro pelo ISBN
     biblioteca.remover_livro_por_isbn("67890")
